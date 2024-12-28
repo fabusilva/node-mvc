@@ -1,13 +1,13 @@
-# Fatify MVC
+# Fastify MVC
 
-Fatify é uma aplicação web que permite gerenciar dados de forma eficiente utilizando Prisma com MongoDB no padrão MVC (Model-View-Controller). O projeto foi desenvolvido para proporcionar uma arquitetura escalável e de fácil manutenção.
+Fastify é uma aplicação web que permite gerenciar dados de forma eficiente utilizando Prisma com MongoDB no padrão MVC (Model-View-Controller). O projeto foi desenvolvido para proporcionar uma arquitetura escalável e de fácil manutenção.
 
 ## Tecnologias
 
 - **Prisma**: ORM para conectar o banco de dados e facilitar a manipulação dos dados.
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenar os dados.
 - **Node.js**: Ambiente de execução JavaScript no servidor.
-- **Fatify**: Framework web para Node.js, usado para estruturar a aplicação.
+- **fastify**: Framework web para Node.js, usado para estruturar a aplicação.
 - **MVC**: Padrão de arquitetura de software utilizado para organizar a aplicação em Model, View e Controller.
 
 ## Instalação
